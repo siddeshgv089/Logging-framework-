@@ -1,0 +1,8 @@
+﻿  Logger.cpp
+C:\Users\Siddesha_G_v\source\repos\logging\logging\Logger.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Siddesha_G_v\source\repos\logging\logging\Logger.h(3,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  logging.cpp
+C:\Users\Siddesha_G_v\source\repos\logging\logging\Logger.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Siddesha_G_v\source\repos\logging\logging\Logger.h(3,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  Generating Code...
+  logging.vcxproj -> C:\Users\Siddesha_G_v\source\repos\logging\x64\Debug\logging.exe
