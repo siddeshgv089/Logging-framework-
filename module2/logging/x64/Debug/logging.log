@@ -1,0 +1,5 @@
+﻿  Logger.cpp
+  logging.cpp
+C:\Users\Siddesha_G_v\source\repos\logging\logging\logging.cpp(31,27): warning C4129: 'l': unrecognized character escape sequence
+  Generating Code...
+  logging.vcxproj -> C:\Users\Siddesha_G_v\source\repos\logging\x64\Debug\logging.exe
